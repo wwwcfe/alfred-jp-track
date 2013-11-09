@@ -1,6 +1,8 @@
-#配送状況確認 Alfred Workflow
+# 配送状況確認 Alfred Workflow
 
 日本の運輸業者の配送状況を確認する Alfred Workflow です。
+
+[ダウンロード v1.0](https://github.com/wwwcfe/alfred-jp-track/releases/download/v1.0/track.alfredworkflow)
 
 
 ## 対応サービス
